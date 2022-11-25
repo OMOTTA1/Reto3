@@ -1,4 +1,6 @@
-
+body {
+	background: linear-gradient(to right, #2FB3E4, #dee0cc);
+  }
 .parrafo {
 	color: black;
 }
